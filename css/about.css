@@ -19,7 +19,7 @@ h3{
     font-size: 20px;
 }
 
-nav a{
+ nav a{
     width:10%;
     color:rgb(82, 80, 80);
     text-decoration: none;
@@ -112,5 +112,31 @@ nav a{
     justify-content: space-evenly;
 }
 
-/*start of footer(check over)*/
+/*bottom area*/
+.bp{
+    width:50%
+}
+.endpg{
+    margin:25px;
+    margin-left: 5%;
+}
+
+/*start of footer*/
+
+footer{
+    width:60%;
+    border: 2px solid black;
+    background-color: black;
+    display:flex;
+    justify-content: space-evenly;
+    padding:20px;
+    margin-left:20%;
+    margin-top:5%;
+    
+}
+
+footer nav a{
+    margin-left:25px;
+    color:white;
+}
 

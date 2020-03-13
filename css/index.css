@@ -66,9 +66,7 @@ p {
     line-height: 1.4;
 }
 
-.container {
-    width: 800px;
-    margin: 0 auto;
+
     
 }
 body{
@@ -84,20 +82,27 @@ header nav a{
 
 .hlink{
 
-   margin:15px;
+    padding-right:80px;
    
 }
 .logo{
     
-width:20%;
+    width:10%;
+    margin-bottom: 6px;
 }
 
-.front{
-margin:15px;
-    display:flex;
-    flex-direction: row-reverse;
-    justify-content: space-evenly;
-}
+
+    .front{
+        width:80%;
+        margin-right: 6px;
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-evenly;
+        align-items: baseline;
+        margin-top: 10px;
+        margin-bottom:10px;
+    }
+
 
 .top-content {
     display: flex;
