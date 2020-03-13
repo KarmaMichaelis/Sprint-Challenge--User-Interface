@@ -1,0 +1,23 @@
+body,html,div,h1,h2,h3,p,a,img,footer,nav,header{
+    margin:0;
+    padding:0;
+    border:0;
+    font-size: 100%;
+    font:inherit;
+    vertical-align: baseline;
+}
+/*Start of style CSS*/
+
+.hlink{
+width:25%;
+}
+
+.logo{
+    width:25%;
+    margin-bottom:29px;
+}
+
+.container{
+    display:flex;
+   justify-content: space-around; 
+}
