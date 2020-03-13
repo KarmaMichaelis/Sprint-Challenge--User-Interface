@@ -69,6 +69,30 @@ p {
 .container {
     width: 800px;
     margin: 0 auto;
+    
+}
+
+header nav a{
+    color: grey;
+    text-decoration: none;
+    
+}
+
+.hlink{
+
+   margin:15px;
+   
+}
+.logo{
+    
+width:20%;
+}
+
+.front{
+margin:15px;
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
 }
 
 .top-content {
@@ -77,6 +101,10 @@ p {
     justify-content: space-evenly;
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
+}
+
+.road{
+    margin:35px;
 }
 
 .top-content .text-container {
