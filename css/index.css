@@ -107,6 +107,12 @@ margin:15px;
     margin:35px;
 }
 
+.text-container{
+    width:20%;
+    padding-right:20px;
+    margin-left:12px;
+    }
+
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
@@ -128,17 +134,55 @@ margin:15px;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+.box{
+    border:1px;
+width:3%;
+height:3%;
+}
+
+
 
 .middle-content .boxes .box {
-    width: 12.5%;
+    width: 12%;
     height: 100px;
-    background: black;
+    /*background: black;*/
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+.box1{
+    background:teal;
+}
+.box2{
+    background:gold;
+}
+.box3{
+    background:cadetblue;
+}
+.box4{
+    background:coral;
+}
+.box5{
+    background:crimson;
+}
+.box6{
+    background:forestgreen;
+}
+.box7{
+    background:darkorchid;
+}
+.box8{
+    background:hotpink;
+}
+.box9{
+    background:indigo;
+}
+.box10{
+    background:dodgerblue;
+}
+
 
 .bottom-content {
     display: flex;
