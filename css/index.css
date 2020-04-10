@@ -144,3 +144,24 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/****end of given css styles*****/
+/**start of header styles****/
+header{
+    display:flex;
+    margin-bottom:6%;
+    margin-top:2%;
+
+}
+a{
+    color:black;
+    text-decoration:none;
+}
+nav{
+    width:65%;
+    margin-top:3%;
+    margin-left:3%;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+/**end of header styles****/
