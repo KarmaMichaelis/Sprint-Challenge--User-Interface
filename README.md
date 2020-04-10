@@ -33,14 +33,16 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
-
+It is HTML that allows you to be more selective in your HTMl and gives the HTML meaning.
 2. What are the 4 areas of the box model?
-
+the content, the padding, the border and the margin.
 3. While using flexbox, what axis does the following property work on: align-items: center?
-
+the cross-axis.
 4. Explain why git is valuable to a team of developers.
-
+It allows a group of people to edit their coding at thesametime and allows all the changes to be exchanged.
 Define mobile-first design in your own words.
+5. Define mobile-first design in your own words.
+It is where you begin your disging starting with mobile, so you would use the min-width media querie and scale up as you go.
 ## Project Set Up
 
 - [ ] Create a forked copy of this project.
